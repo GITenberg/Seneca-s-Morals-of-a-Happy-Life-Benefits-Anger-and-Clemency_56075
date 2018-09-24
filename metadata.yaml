@@ -1,5 +1,8 @@
 _repo: Seneca-s-Morals-of-a-Happy-Life-Benefits-Anger-and-Clemency_56075
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56075-h/images/cover.jpg
 creator:
   author:
     agent_name: Seneca, Lucius Annaeus
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1308
     wikipedia: http://en.wikipedia.org/wiki/Seneca_the_Younger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56075#Seneca-s-Morals-of-a-Happy-Life-Benefits-Anger-and-Clemency
 gutenberg_issued: '2017-11-28'
 gutenberg_type: Text
 identifiers:
